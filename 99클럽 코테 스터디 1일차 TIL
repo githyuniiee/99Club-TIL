@@ -1,6 +1,6 @@
 오늘의 학습 키워드 : 배열 문제
 
-```
+```java
 import java.util.*;
 
 class Solution {
